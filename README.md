@@ -9,7 +9,7 @@ A clean and responsive **calculator web application** built with **HTML, CSS, an
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/screenshot(2).png" alt="Calculator Preview" width="500">
+  <img src="./assets/screenshot(2).png" alt="Calculator Preview" width="800">
 </p>
 
 ## ✨ Features
