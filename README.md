@@ -1,32 +1,32 @@
-# 🧮 Calculator
+#  Calculator
 
 A clean and responsive **calculator web application** built with **HTML, CSS, and JavaScript**. The project provides essential arithmetic operations through a simple and user-friendly interface.
 
-## 🔗 Live Demo
+##  Live Demo
 
 **[View Calculator Live](https://moniruzzaman-badhon.github.io/calculator/)**
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="./assets/calculator.png" alt="Calculator Preview" width="800">
 </p>
 
-## ✨ Features
+##  Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division
-* `%` Percentage calculation
-* `±` Positive/negative number conversion
-* 🔢 Decimal number support
-* 🧹 Clear / Reset functionality
-* ⚠️ Division-by-zero error handling
-* 📱 Responsive user interface
-* 🎨 Clean and modern design
+*  Addition
+*  Subtraction
+*  Multiplication
+*  Division
+*  Percentage calculation
+*  Positive/negative number conversion
+*  Decimal number support
+*  Clear / Reset functionality
+*  Division-by-zero error handling
+*  Responsive user interface
+*  Clean and modern design
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology     | Purpose                                  |
 | -------------- | ---------------------------------------- |
@@ -34,7 +34,7 @@ A clean and responsive **calculator web application** built with **HTML, CSS, an
 | **CSS3**       | Styling, layout, and responsive design   |
 | **JavaScript** | Calculation logic and user interactions  |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 calculator/
@@ -50,7 +50,7 @@ calculator/
 
 
 
-## 🧠 JavaScript Functionality
+##  JavaScript Functionality
 
 The calculator uses JavaScript to manage:
 
@@ -66,17 +66,17 @@ The calculator uses JavaScript to manage:
 The calculation logic is implemented using separate functions for operations such as number input, operator selection, calculation, clearing, percentage conversion, and sign changes.
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
-* ⌨️ Keyboard support
-* 🕘 Calculation history
-* 🌙 Dark / Light mode
-* 📐 Scientific calculator mode
-* 📱 Improved mobile interactions
-* 💾 Persistent calculation history
-* ✨ Additional UI animations
+*  Keyboard support
+*  Calculation history
+*  Dark / Light mode
+*  Scientific calculator mode
+*  Improved mobile interactions
+*  Persistent calculation history
+*  Additional UI animations
 
-## 👨‍💻 Author
+##  Author
 
 ### Md. Moniruzzaman Badhon
 
@@ -93,8 +93,8 @@ The calculation logic is implemented using separate functions for operations suc
 
 ---
 
-⭐ If you found this project useful, consider giving the repository a star.
+ If you found this project useful, consider giving the repository a star.
 
 <p align="center">
-  Built with ❤️ using HTML, CSS & JavaScript
+  Built with HTML, CSS & JavaScript
 </p>
